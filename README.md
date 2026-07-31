@@ -39,7 +39,7 @@ Abra `index.html` e edite o conteúdo diretamente nas seções:
 - `#destaques`: cards de diferenciais.
 - `#galeria`: legendas e fotos da galeria.
 - `#localizacao`: texto de localização e mapa.
-- `#valor`: valores de mercado e oportunidade.
+- `#valor`: valor de venda e negociação.
 
 Depois de alterar, abra o `index.html` no navegador para revisar.
 

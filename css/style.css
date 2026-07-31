@@ -345,18 +345,15 @@ button {
   line-height: 1.2;
 }
 
-.hero-price-old {
+.hero-price-main {
+  color: #fff;
+  font-size: 1.02rem;
+}
+
+.hero-price-note {
   color: rgba(255, 255, 255, 0.72);
   font-size: 0.88rem;
   font-weight: 750;
-  text-decoration: line-through;
-  text-decoration-color: var(--color-gold);
-  text-decoration-thickness: 2px;
-}
-
-.hero-price-opportunity {
-  color: #fff;
-  font-size: 1.02rem;
 }
 
 .trust-strip {
@@ -885,16 +882,16 @@ button {
   line-height: 1;
 }
 
-.old-price {
-  text-decoration: line-through;
-  text-decoration-thickness: 2px;
-  text-decoration-color: var(--color-gold);
-}
-
 .price-line.highlight span {
   color: var(--color-gold);
   font-weight: 850;
   text-transform: uppercase;
+}
+
+.price-note {
+  margin: -2px 0 2px;
+  color: rgba(255, 255, 255, 0.82);
+  font-weight: 850;
 }
 
 .final-cta {
