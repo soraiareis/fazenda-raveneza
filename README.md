@@ -45,17 +45,17 @@ Depois de alterar, abra o `index.html` no navegador para revisar.
 
 ## Como trocar o WhatsApp
 
-O número atual é placeholder:
+O número atual é:
 
 ```text
-+55 31 99999-9999
++55 31 99954-6727
 ```
 
 Para trocar, edite `js/script.js`:
 
 ```js
-const WHATSAPP_PHONE = "5531999999999";
-const WHATSAPP_DISPLAY = "+55 31 99999-9999";
+const WHATSAPP_PHONE = "5531999546727";
+const WHATSAPP_DISPLAY = "+55 31 99954-6727";
 ```
 
 Use somente números em `WHATSAPP_PHONE`, com código do país e DDD. Exemplo:

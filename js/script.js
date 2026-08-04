@@ -1,5 +1,5 @@
-const WHATSAPP_PHONE = "5531999999999";
-const WHATSAPP_DISPLAY = "+55 31 99999-9999";
+const WHATSAPP_PHONE = "5531999546727";
+const WHATSAPP_DISPLAY = "+55 31 99954-6727";
 
 const header = document.querySelector("[data-site-header]");
 const navToggle = document.querySelector(".nav-toggle");
